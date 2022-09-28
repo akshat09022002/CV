@@ -1,0 +1,22 @@
+
+
+            body{
+              background-color: #EAF6F6;
+            }
+
+            hr{
+              border-style: dotted none none;
+              border-color: grey;
+              border-width: 5px;
+              width: 5%;
+            <!--  background-color: white; -->
+              <!-- width: 100px or width: 30%(if screen size is not fixed)-->
+            }
+
+            h1{
+              color: #66bfbf
+            }
+
+            h3{
+              color: #66bfbf
+            }
